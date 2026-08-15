@@ -43,7 +43,7 @@
             "last_commit": "2023-11-20T16:21:54Z",
             "owner": "matteofigus",
             "repo": "awesome-speaking",
-            "stars": 1969
+            "stars": 1970
           }
         }
       ],
@@ -105,7 +105,7 @@
             "last_commit": "2020-01-03T19:25:01Z",
             "owner": "watson",
             "repo": "conferences",
-            "stars": 414
+            "stars": 415
           }
         },
         {
@@ -162,7 +162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T01:07:01.371Z",
+    "last_updated": "2026-08-15T00:41:18.208Z",
     "original_repository": "RichardLitt/awesome-conferences",
     "original_repository_sha": "7d94c3952a5004229474a7632955079285a0c66a",
     "enhanced_repository": "enhansome/enhansome-conferences",

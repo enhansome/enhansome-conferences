@@ -159,7 +159,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,723 | 🐛 2 | 🌐 Shell | 📅 2026-07-01 // [@papers\_we\_love](https://twitter.com/papers_we_love)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,750 | 🐛 2 | 🌐 Shell | 📅 2026-07-01 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Symfony Live](http://live.symfony.com/) // [@symfony\_live](https://twitter.com/symfony_live)
 * [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
@@ -403,7 +403,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 ### Help with Speaking
 
 * [gitpitch](https://github.com/gitpitch/gitpitch) ⭐ 5,478 | 🐛 13 | 🌐 Python | 📅 2021-03-01 - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. <https://gitpitch.com>.
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) ⭐ 1,969 | 🐛 1 | 📅 2023-11-20
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) ⭐ 1,970 | 🐛 1 | 📅 2023-11-20
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -428,7 +428,7 @@ How to host stuff.
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) ⭐ 1,412 | 🐛 7 | 🌐 HTML | 📅 2026-07-03
 * [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) ⭐ 1,134 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-09 List of cocoa conferences for iOS & OSX developers.
 * [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences) ⭐ 755 | 🐛 1 | 📅 2023-03-27
-* [watson/conferences](https://github.com/watson/conferences) ⭐ 414 | 🐛 6 | 📅 2020-01-03 List of awesome conferences from @watson.
+* [watson/conferences](https://github.com/watson/conferences) ⭐ 415 | 🐛 6 | 📅 2020-01-03 List of awesome conferences from @watson.
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events) ⭐ 260 | 🐛 0 | 🌐 HTML | 📅 2023-02-22. A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [mobilehackersio/pwa-confs](https://github.com/mobilehackersio/pwa-confs) ⭐ 6 | 🐛 0 | 📅 2019-11-07. A list of conferences talking about PWA.
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
@@ -460,4 +460,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
