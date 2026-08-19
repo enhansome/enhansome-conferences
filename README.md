@@ -159,7 +159,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,823 | 🐛 3 | 🌐 Shell | 📅 2026-07-01 // [@papers\_we\_love](https://twitter.com/papers_we_love)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,839 | 🐛 3 | 🌐 Shell | 📅 2026-07-01 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Symfony Live](http://live.symfony.com/) // [@symfony\_live](https://twitter.com/symfony_live)
 * [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
