@@ -109,6 +109,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 > It invites international speakers from other countries, provides high-quality real-time translation of the talks. - [@PeterDaveHello](https://github.com/PeterDaveHello)
 
+* **Notes or roundups:** <https://github.com/aar0nTw/jsdc2014-notes> ⭐ 18 | 🐛 0 | 📅 2014-10-13, <https://github.com/substack/jsdc.tw-2014>
 * **Website:** <http://jsdc.tw/>
 * **Location:** Taiwain
 * **Date:** 2012-2016, presumably 2017
@@ -116,7 +117,6 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Call for Presenters:** TBA.
 * **Twitter:** [@jsdc\_tw](https://twitter.com/jsdc_tw)
 * **Tags:** js, javascript, taiwain
-* **Notes or roundups:** <https://github.com/aar0nTw/jsdc2014-notes> ⭐ 18 | 🐛 0 | 📅 2014-10-13, <https://github.com/substack/jsdc.tw-2014>
 * **Attendees:** [@PeterDaveHello](https://github.com/PeterDaveHello)
 
 ### Chain React
@@ -153,13 +153,13 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 *If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work.*
 
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,966 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future\_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,952 | 🐛 3 | 🌐 Shell | 📅 2026-07-01 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Symfony Live](http://live.symfony.com/) // [@symfony\_live](https://twitter.com/symfony_live)
 * [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
@@ -410,11 +410,11 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 These sites list open calls for speakers.
 
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) ⚠️ Archived - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
 * [Papercall](https://papercall.io)
 * [Technically Speaking](https://techspeak.email/)
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) ⚠️ Archived - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 
 ### For Organizers
 

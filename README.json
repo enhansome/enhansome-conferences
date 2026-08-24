@@ -7,6 +7,55 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Notes or roundups: https://github.com/aar0nTw/jsdc2014-notes",
+              "description": ", https://github.com/substack/jsdc.tw-2014",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25061547,
+                "language": null,
+                "last_commit": "2014-10-13T03:04:12Z",
+                "owner": "aar0nTw",
+                "repo": "jsdc2014-notes",
+                "stars": 18
+              }
+            }
+          ],
+          "description": "It invites international speakers from other countries, provides high-quality real-time translation of the talks. - @PeterDaveHello",
+          "node_type": "group",
+          "title": "JSDC"
+        }
+      ],
+      "title": "Conferences"
+    },
+    {
+      "description": "If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papers We Love",
+          "description": "// @papers_we_love",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15204860,
+            "language": "Shell",
+            "last_commit": "2026-08-24T09:14:23Z",
+            "owner": "papers-we-love",
+            "repo": "papers-we-love",
+            "stars": 108966
+          }
+        }
+      ],
+      "title": "Old Conferences List"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gitpitch",
               "description": "Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.",
               "children": [],
@@ -39,6 +88,28 @@
           "description": null,
           "node_type": "group",
           "title": "Help with Speaking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IT CFP List",
+              "description": "List of IT conferences Call For Papers, changes are also published via Twitter @ItCfpList.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 61054710,
+                "language": null,
+                "last_commit": "2021-01-12T15:31:50Z",
+                "owner": "softwaremill",
+                "repo": "it-cfp-list",
+                "stars": 373
+              }
+            }
+          ],
+          "description": "These sites list open calls for speakers.",
+          "node_type": "group",
+          "title": "Call for Speakers"
         },
         {
           "children": [
@@ -142,7 +213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:42:23.317Z",
+    "last_updated": "2026-08-24T14:16:04.835Z",
     "original_repository": "RichardLitt/awesome-conferences",
     "original_repository_id": 23163494,
     "original_repository_sha": "7d94c3952a5004229474a7632955079285a0c66a",
