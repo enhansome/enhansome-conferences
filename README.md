@@ -153,7 +153,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 *If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work.*
 
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,974 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 // [@papers\_we\_love](https://twitter.com/papers_we_love)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,977 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future\_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
