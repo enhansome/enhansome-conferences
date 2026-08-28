@@ -18,7 +18,8 @@
                 "owner": "aar0nTw",
                 "repo": "jsdc2014-notes",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             }
           ],
           "description": "It invites international speakers from other countries, provides high-quality real-time translation of the talks. - @PeterDaveHello",
@@ -43,8 +44,9 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109031
-          }
+            "stars": 109051
+          },
+          "first_seen": "2026-08-28T08:00:43.486Z"
         }
       ],
       "title": "Old Conferences List"
@@ -67,7 +69,8 @@
                 "owner": "gitpitch",
                 "repo": "gitpitch",
                 "stars": 5475
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             },
             {
               "node_type": "item",
@@ -82,7 +85,8 @@
                 "owner": "matteofigus",
                 "repo": "awesome-speaking",
                 "stars": 1975
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             }
           ],
           "description": null,
@@ -104,7 +108,8 @@
                 "owner": "softwaremill",
                 "repo": "it-cfp-list",
                 "stars": 373
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             }
           ],
           "description": "These sites list open calls for speakers.",
@@ -126,7 +131,8 @@
                 "owner": "AndroidStudyGroup",
                 "repo": "conferences",
                 "stars": 1412
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             },
             {
               "node_type": "item",
@@ -141,7 +147,8 @@
                 "owner": "Lascorbe",
                 "repo": "CocoaConferences",
                 "stars": 1134
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             },
             {
               "node_type": "item",
@@ -156,7 +163,8 @@
                 "owner": "fmbenhassine",
                 "repo": "awesome-software-craftsmanship",
                 "stars": 755
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             },
             {
               "node_type": "item",
@@ -171,7 +179,8 @@
                 "owner": "watson",
                 "repo": "conferences",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             },
             {
               "node_type": "item",
@@ -186,7 +195,8 @@
                 "owner": "planetruby",
                 "repo": "conferences",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             },
             {
               "node_type": "item",
@@ -201,7 +211,8 @@
                 "owner": "mobilehackersdotio",
                 "repo": "pwa-confs",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T08:00:43.486Z"
             }
           ],
           "description": null,
@@ -213,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:19.657Z",
+    "last_updated": "2026-08-28T08:00:43.486Z",
     "original_repository_info": {
       "archived": false,
       "id": 23163494,
