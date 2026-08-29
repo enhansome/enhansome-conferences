@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes of JSDC 2014",
+                "homepage": "http://2014.jsdc.tw",
                 "id": 25061547,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-10-13T03:04:12Z",
+                "open_issues": 0,
                 "owner": "aar0nTw",
                 "repo": "jsdc2014-notes",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             }
@@ -39,12 +44,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers from the computer science community to read and discuss.",
+            "homepage": "http://paperswelove.org/",
             "id": 15204860,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T09:14:23Z",
+            "open_issues": 3,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109051
+            "stars": 109070,
+            "topics": [
+              "awesome",
+              "computer-science",
+              "meetup",
+              "papers",
+              "programming",
+              "read-papers",
+              "theory"
+            ]
           },
           "first_seen": "2026-08-28T08:00:43.486Z"
         }
@@ -63,12 +81,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.",
+                "homepage": "https://gitpitch.github.io/gitpitch",
                 "id": 62685536,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-01T07:55:23Z",
+                "open_issues": 13,
                 "owner": "gitpitch",
                 "repo": "gitpitch",
-                "stars": 5475
+                "stars": 5475,
+                "topics": [
+                  "git",
+                  "markdown",
+                  "presentation",
+                  "presentations",
+                  "slideshows"
+                ]
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             },
@@ -79,12 +108,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources about public speaking",
+                "homepage": null,
                 "id": 37415878,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-11-20T16:21:54Z",
+                "open_issues": 1,
                 "owner": "matteofigus",
                 "repo": "awesome-speaking",
-                "stars": 1975
+                "stars": 1976,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "conference",
+                  "list",
+                  "speaking",
+                  "speaking-resources"
+                ]
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             }
@@ -102,12 +143,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "List of Call For Papers for IT conferences",
+                "homepage": null,
                 "id": 61054710,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-12T15:31:50Z",
+                "open_issues": 5,
                 "owner": "softwaremill",
                 "repo": "it-cfp-list",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "cfp",
+                  "conference",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             }
@@ -125,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-curated list of conferences around the world for Android developers.",
+                "homepage": "https://androidstudygroup.github.io/conferences/",
                 "id": 37570386,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-03T07:37:09Z",
+                "open_issues": 7,
                 "owner": "AndroidStudyGroup",
                 "repo": "conferences",
-                "stars": 1412
+                "stars": 1412,
+                "topics": []
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             },
@@ -141,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of conferences for iOS, visionOS, macOS, watchOS & tvOS developers",
+                "homepage": "http://cocoaconferences.com",
                 "id": 13382895,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-19T16:58:01Z",
+                "open_issues": 2,
                 "owner": "Lascorbe",
                 "repo": "CocoaConferences",
-                "stars": 1134
+                "stars": 1134,
+                "topics": []
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             },
@@ -157,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome software craftsmanship resources",
+                "homepage": null,
                 "id": 46771226,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-03-27T04:04:40Z",
+                "open_issues": 1,
                 "owner": "fmbenhassine",
                 "repo": "awesome-software-craftsmanship",
-                "stars": 755
+                "stars": 755,
+                "topics": []
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             },
@@ -173,12 +238,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of awesome conferences",
+                "homepage": null,
                 "id": 38848246,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-01-03T19:25:01Z",
+                "open_issues": 6,
                 "owner": "watson",
                 "repo": "conferences",
-                "stars": 416
+                "stars": 416,
+                "topics": [
+                  "conference"
+                ]
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             },
@@ -189,12 +261,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What's Upcoming in 2023? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!",
+                "homepage": "https://planetruby.github.io/conferences",
                 "id": 34329457,
                 "language": "HTML",
+                "license": "CC0-1.0",
                 "last_commit": "2023-02-22T20:29:16Z",
+                "open_issues": 0,
                 "owner": "planetruby",
                 "repo": "conferences",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "awesome",
+                  "camps",
+                  "conferences",
+                  "eventdb",
+                  "meetups",
+                  "ruby",
+                  "ruby-conferences"
+                ]
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             },
@@ -205,12 +290,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗓 List of conferences talking about progressive web apps (PWA) and apps that run in a browser",
+                "homepage": "https://mobilehackers.io/events?tag=pwa",
                 "id": 152033070,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-11-07T17:49:20Z",
+                "open_issues": 0,
                 "owner": "mobilehackersdotio",
                 "repo": "pwa-confs",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "conferences",
+                  "conferences-talk",
+                  "conferences-web",
+                  "mobile-application-development",
+                  "progressive-web-app",
+                  "pwa"
+                ]
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
             }
@@ -224,15 +321,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T08:00:43.486Z",
+    "last_updated": "2026-08-29T04:40:38.854Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":ticket: A list of awesome conferences",
+      "homepage": null,
       "id": 23163494,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2022-09-29T21:10:00Z",
+      "open_issues": 2,
       "owner": "RichardLitt",
       "repo": "awesome-conferences",
-      "stars": 790
+      "stars": 790,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "camp",
+        "conf",
+        "conference",
+        "list"
+      ]
     },
     "original_repository_sha": "7d94c3952a5004229474a7632955079285a0c66a",
     "enhanced_repository": "enhansome/enhansome-conferences",

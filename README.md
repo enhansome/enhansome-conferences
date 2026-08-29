@@ -153,7 +153,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 *If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work.*
 
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 109,051 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 // [@papers\_we\_love](https://twitter.com/papers_we_love)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 109,070 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future\_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -403,7 +403,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 ### Help with Speaking
 
 * [gitpitch](https://github.com/gitpitch/gitpitch) ⭐ 5,475 | 🐛 13 | 🌐 Python | 📅 2021-03-01 - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. <https://gitpitch.com>.
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) ⭐ 1,975 | 🐛 1 | 📅 2023-11-20
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) ⭐ 1,976 | 🐛 1 | 📅 2023-11-20
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -460,4 +460,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
