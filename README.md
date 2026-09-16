@@ -153,7 +153,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 *If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work.*
 
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 109,728 | 🐛 4 | 🌐 Shell | 📅 2026-08-31 // [@papers\_we\_love](https://twitter.com/papers_we_love)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 109,762 | 🐛 4 | 🌐 Shell | 📅 2026-08-31 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future\_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -446,11 +446,11 @@ How to host stuff.
 
 * [@Richardlitt](https://github.com/RichardLitt)
 
-Would you like to be a maintainer? Please ping me! [I'm looking for more.](https://github.com/RichardLitt/awesome-conferences/issues/106) ⭐ 790 | 🐛 2 | 🌐 Ruby | 📅 2022-09-29
+Would you like to be a maintainer? Please ping me! [I'm looking for more.](https://github.com/RichardLitt/awesome-conferences/issues/106) ⭐ 791 | 🐛 2 | 🌐 Ruby | 📅 2022-09-29
 
 ## Contribute
 
-Please do! Check out the [Contributing](contributing.md) file, and [open an issue](https://github.com/RichardLitt/awesome-conferences/issues/new) ⭐ 790 | 🐛 2 | 🌐 Ruby | 📅 2022-09-29!
+Please do! Check out the [Contributing](contributing.md) file, and [open an issue](https://github.com/RichardLitt/awesome-conferences/issues/new) ⭐ 791 | 🐛 2 | 🌐 Ruby | 📅 2022-09-29!
 
 ## License
 
@@ -460,4 +460,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
