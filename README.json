@@ -49,11 +49,11 @@
             "id": 15204860,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-08-31T16:58:20Z",
+            "last_commit": "2026-09-17T00:40:26Z",
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109762,
+            "stars": 109788,
             "topics": [
               "awesome",
               "computer-science",
@@ -90,7 +90,7 @@
                 "open_issues": 13,
                 "owner": "gitpitch",
                 "repo": "gitpitch",
-                "stars": 5473,
+                "stars": 5474,
                 "topics": [
                   "git",
                   "markdown",
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T02:25:12.016Z",
+    "last_updated": "2026-09-17T02:29:11.793Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
