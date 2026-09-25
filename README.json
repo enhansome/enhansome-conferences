@@ -53,7 +53,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109953,
+            "stars": 109975,
             "topics": [
               "awesome",
               "computer-science",
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T02:17:09.009Z",
+    "last_updated": "2026-09-25T02:33:50.572Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
