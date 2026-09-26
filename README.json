@@ -50,10 +50,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-17T00:40:26Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109975,
+            "stars": 109999,
             "topics": [
               "awesome",
               "computer-science",
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T02:33:50.572Z",
+    "last_updated": "2026-09-26T02:36:12.668Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
