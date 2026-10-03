@@ -53,7 +53,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110184,
+            "stars": 110189,
             "topics": [
               "awesome",
               "computer-science",
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "awesome-speaking",
-              "description": null,
+              "description": "matteofigus/awesome-speaking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -171,7 +171,7 @@
             {
               "node_type": "item",
               "title": "AndroidStudyGroup",
-              "description": null,
+              "description": "AndroidStudyGroup/conferences",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -213,7 +213,7 @@
             {
               "node_type": "item",
               "title": "awesome-software-craftsmanship conferences",
-              "description": null,
+              "description": "fmbenhassine/awesome-software-craftsmanship",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:57:22.374Z",
+    "last_updated": "2026-10-03T04:36:50.049Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
