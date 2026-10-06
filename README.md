@@ -153,7 +153,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 *If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work.*
 
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,242 | 🐛 4 | 🌐 Shell | 📅 2026-09-29 // [@papers\_we\_love](https://twitter.com/papers_we_love)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,270 | 🐛 4 | 🌐 Shell | 📅 2026-09-29 // [@papers\_we\_love](https://twitter.com/papers_we_love)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future\_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -426,7 +426,7 @@ How to host stuff.
 ### Other Lists
 
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) ⭐ 1,413 | 🐛 7 | 🌐 HTML | 📅 2026-09-29
-* [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) ⭐ 1,135 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18 List of cocoa conferences for iOS & OSX developers.
+* [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) ⭐ 1,135 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-05 List of cocoa conferences for iOS & OSX developers.
 * [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences) ⭐ 756 | 🐛 1 | 📅 2023-03-27
 * [watson/conferences](https://github.com/watson/conferences) ⭐ 415 | 🐛 6 | 📅 2020-01-03 List of awesome conferences from @watson.
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events) ⭐ 260 | 🐛 0 | 🌐 HTML | 📅 2023-02-22. A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
@@ -460,4 +460,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

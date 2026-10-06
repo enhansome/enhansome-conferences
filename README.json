@@ -53,7 +53,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110242,
+            "stars": 110270,
             "topics": [
               "awesome",
               "computer-science",
@@ -201,8 +201,8 @@
                 "id": 13382895,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-18T12:27:51Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-05T08:12:50Z",
+                "open_issues": 2,
                 "owner": "Lascorbe",
                 "repo": "CocoaConferences",
                 "stars": 1135,
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T03:05:13.220Z",
+    "last_updated": "2026-10-06T03:54:23.696Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
