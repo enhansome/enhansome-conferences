@@ -53,7 +53,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110299,
+            "stars": 110330,
             "topics": [
               "awesome",
               "computer-science",
@@ -117,7 +117,7 @@
                 "open_issues": 5,
                 "owner": "matteofigus",
                 "repo": "awesome-speaking",
-                "stars": 1990,
+                "stars": 1992,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T03:22:18.539Z",
+    "last_updated": "2026-10-08T03:37:17.422Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
