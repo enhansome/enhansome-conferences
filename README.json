@@ -50,10 +50,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-29T09:45:40Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110764,
+            "stars": 110797,
             "topics": [
               "awesome",
               "computer-science",
@@ -90,7 +90,7 @@
                 "open_issues": 13,
                 "owner": "gitpitch",
                 "repo": "gitpitch",
-                "stars": 5473,
+                "stars": 5472,
                 "topics": [
                   "git",
                   "markdown",
@@ -184,7 +184,7 @@
                 "open_issues": 8,
                 "owner": "AndroidStudyGroup",
                 "repo": "conferences",
-                "stars": 1414,
+                "stars": 1413,
                 "topics": []
               },
               "first_seen": "2026-08-28T08:00:43.486Z"
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T02:30:59.812Z",
+    "last_updated": "2026-10-23T02:35:42.425Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
