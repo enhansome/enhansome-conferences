@@ -49,11 +49,11 @@
             "id": 15204860,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-29T09:45:40Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-28T23:10:37Z",
+            "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110973,
+            "stars": 111004,
             "topics": [
               "awesome",
               "computer-science",
@@ -90,7 +90,7 @@
                 "open_issues": 13,
                 "owner": "gitpitch",
                 "repo": "gitpitch",
-                "stars": 5472,
+                "stars": 5471,
                 "topics": [
                   "git",
                   "markdown",
@@ -117,7 +117,7 @@
                 "open_issues": 11,
                 "owner": "matteofigus",
                 "repo": "awesome-speaking",
-                "stars": 2001,
+                "stars": 1999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -180,8 +180,8 @@
                 "id": 37570386,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-29T15:08:17Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-28T16:59:16Z",
+                "open_issues": 6,
                 "owner": "AndroidStudyGroup",
                 "repo": "conferences",
                 "stars": 1413,
@@ -223,7 +223,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2023-03-27T04:04:40Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "fmbenhassine",
                 "repo": "awesome-software-craftsmanship",
                 "stars": 756,
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T03:06:49.714Z",
+    "last_updated": "2026-10-29T03:32:39.843Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
