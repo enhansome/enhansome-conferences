@@ -53,7 +53,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 111085,
+            "stars": 111116,
             "topics": [
               "awesome",
               "computer-science",
@@ -117,7 +117,7 @@
                 "open_issues": 12,
                 "owner": "matteofigus",
                 "repo": "awesome-speaking",
-                "stars": 2002,
+                "stars": 2003,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -181,7 +181,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-10-28T16:59:16Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "AndroidStudyGroup",
                 "repo": "conferences",
                 "stars": 1413,
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T03:19:15.605Z",
+    "last_updated": "2026-11-02T03:28:21.995Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
@@ -333,7 +333,7 @@
       "open_issues": 2,
       "owner": "RichardLitt",
       "repo": "awesome-conferences",
-      "stars": 791,
+      "stars": 790,
       "topics": [
         "awesome",
         "awesome-list",
