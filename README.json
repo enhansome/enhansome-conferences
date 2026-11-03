@@ -53,7 +53,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 111116,
+            "stars": 111137,
             "topics": [
               "awesome",
               "computer-science",
@@ -90,7 +90,7 @@
                 "open_issues": 13,
                 "owner": "gitpitch",
                 "repo": "gitpitch",
-                "stars": 5470,
+                "stars": 5469,
                 "topics": [
                   "git",
                   "markdown",
@@ -180,8 +180,8 @@
                 "id": 37570386,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-10-28T16:59:16Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-02T16:49:58Z",
+                "open_issues": 6,
                 "owner": "AndroidStudyGroup",
                 "repo": "conferences",
                 "stars": 1413,
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T03:28:21.995Z",
+    "last_updated": "2026-11-03T04:38:03.143Z",
     "original_repository_info": {
       "archived": false,
       "description": ":ticket: A list of awesome conferences",
